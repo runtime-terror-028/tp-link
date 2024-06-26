@@ -1,0 +1,9 @@
+{
+    "buttons": [
+        {"text": "M5 SM1", "contentUrl": "content/setting_5/content_5_1.html", "content2Url": "content/setting_5/help_5_1.html"},
+        {"text": "M5 SM2", "contentUrl": "content/setting_5/content_5_2.html", "content2Url": "content/setting_5/help_5_2.html"},
+        {"text": "M5 SM3", "contentUrl": "content/setting_5/content_5_3.html", "content2Url": "content/setting_5/help_5_3.html"},
+        {"text": "M5 SM4", "contentUrl": "content/setting_5/content_5_4.html", "content2Url": "content/setting_5/help_5_4.html"},
+        {"text": "M5 SM5", "contentUrl": "content/setting_5/content_5_5.html", "content2Url": "content/setting_5/help_5_5.html"}
+    ]
+}
